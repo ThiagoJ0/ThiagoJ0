@@ -37,7 +37,7 @@ Atualmente, atuo como **CTO/Gerente Técnico de Projetos** , onde venho combinan
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" alt="Swift" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" alt="Swift" width="40" height="40"/>
 </p>
 
 ⭐️ Sinta-se à vontade para explorar meus repositórios e se conectar!
