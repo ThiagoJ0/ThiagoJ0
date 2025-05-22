@@ -6,7 +6,7 @@ Petrolina, Pernambuco - Brasil
 
 Formando em Engenharia da Computação apaixonado por desenvolvimento front-end. Tenho experiência com tecnologias modernas como **React** e **TypeScript**, criando interfaces interativas, acessíveis e responsivas.
 
-Atualmente, atuo como **CTO/Gerente Técnico de Projetos** no Autocenter App, onde venho combinando habilidades técnicas e organizacionais para liderar iniciativas de software.
+Atualmente, atuo como **CTO/Gerente Técnico de Projetos** , onde venho combinando habilidades técnicas e organizacionais para liderar iniciativas de software.
 
 ---
 
