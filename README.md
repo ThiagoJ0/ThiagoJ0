@@ -17,15 +17,6 @@ Atualmente, atuo como **CTO/Gerente Técnico de Projetos** no Autocenter App, on
 - 🤝 Boas práticas de soft skills e trabalho em equipe  
 ---
 
-## 🚀 Experiência
-**Autocenter App**  
-`Gerente de Projetos` – Março 2023 até o momento  
-Condução de projetos, gestão de equipe e desenvolvimento de soluções digitais.
-
-**+Freelances**  
----
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-Thiago%20José-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-jose-698a7a257/)](https://www.linkedin.com/in/thiago-jose-698a7a257/)
