@@ -1,27 +1,28 @@
 # Olá! Eu sou o Thiago José 👋
 
-## 👨‍💻 Desenvolvedor FrontEnd | Gerente de Projetos | TechLead | CTO
+## 👨💻 Senior Full Stack Engineer | Tech Lead | CTO
 
 Petrolina, Pernambuco - Brasil
 
-Formando em Engenharia da Computação apaixonado por desenvolvimento front-end. Tenho experiência com tecnologias modernas como **React** e **TypeScript**, criando interfaces interativas, acessíveis e responsivas.
+Engenheiro da Computação pela Univasf, Senior Full Stack Engineer e Tech Lead com experiência em arquitetura e desenvolvimento end-to-end utilizando **TypeScript**, **React**, **Next.js**, **Node.js**, **NestJS** e **PostgreSQL**.
 
-Atualmente, atuo como **CTO/Gerente Técnico de Projetos** , onde venho combinando habilidades técnicas e organizacionais para liderar iniciativas de software.
+Atualmente, atuo como **CTO na Autocenter APP**, onde combino habilidades técnicas e de liderança para conduzir arquitetura, produto e time de engenharia em um ecossistema ERP SaaS completo.
 
 ---
 
 ## 🧠 Principais Competências
-- ⚛️ React/React-Native  
-- 💻 PostgreeSQL  
-- 🌐 Desenvolvimento Web/Backend/Infra  
-- 🤝 Boas práticas de soft skills e trabalho em equipe  
+- ⚛️ **Frontend & Mobile:** React, Next.js, React Native, Flutter, TypeScript
+- ⚙️ **Backend & Dados:** Node.js, NestJS, Prisma, PostgreSQL, Elasticsearch
+- 🧪 **Qualidade, Observabilidade & Infra:** Playwright, Jest, OpenTelemetry, Docker
+- 🤝 **Liderança Técnica:** Arquitetura de software, gestão de times e boas práticas de trabalho em equipe
+
 ---
 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-Thiago%20José-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-jose-698a7a257/)](https://www.linkedin.com/in/thiago-jose-698a7a257/)
 [![Gmail](https://img.shields.io/badge/-will77.tj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:will77.tj@gmail.com)](mailto:will77.tj@gmail.com)
-[![GitHub](https://img.shields.io/badge/-doctorloluse-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/doctorloluse)](https://github.com/doctorloluse)
+[![GitHub](https://img.shields.io/badge/-ThiagoJ0-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ThiagoJ0)](https://github.com/ThiagoJ0)
 
 ---
 
